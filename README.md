@@ -1,2 +1,2 @@
-swift-meetup
+Swift Meetup
 ============
